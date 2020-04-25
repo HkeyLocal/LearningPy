@@ -1,3 +1,6 @@
+import random
+import string
+
 class generatorPasswd(object):
     def __init__(self):
         while True:
